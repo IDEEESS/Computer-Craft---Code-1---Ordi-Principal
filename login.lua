@@ -3,4 +3,6 @@ password = "IT"
 
 print(string.upper("Systeme Securite "))
 
-print(io.read("*l"))
+io.write("user :")
+userName = io.read
+print("user = ",userName)
